@@ -1,0 +1,21 @@
+[
+  {
+    "AppointmentId": 1,
+    "DateTime": "2025-12-12T12:30:00",
+    "Doctor": {
+      "DoctorId": 1,
+      "Specialty": "aa",
+      "Name": "aa",
+      "Phone": "44",
+      "Email": "44"
+    },
+    "Patient": {
+      "PatientId": 1,
+      "MedicalHistory": [],
+      "Name": "ahmed",
+      "Phone": "000",
+      "Email": "mohamed@gmail.com"
+    },
+    "Status": "Scheduled"
+  }
+]
