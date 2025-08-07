@@ -3,8 +3,7 @@ The Clinic Appointment System is a C# console application designed to streamline
 Features
 
 
-![Screenshot](<img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/a4b650ce-299a-4df9-98ee-1634013f082e" />
-)
+<img src="474852164-65e433bb-dc59-4225-894f-6c7dee70c8c4.png" alt="Clinic Appointment System Screenshot" width="100%" />
 
 
 
