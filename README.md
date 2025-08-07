@@ -2,8 +2,9 @@
 The Clinic Appointment System is a C# console application designed to streamline clinic operations. It provides a user-friendly interface to manage appointments, add patients and doctors, record payments, and store medical histories. Data is persisted in JSON files for simplicity and portability.
 Features
 
-<img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/65e433bb-dc59-4225-894f-6c7dee70c8c4" />
 
+![Screenshot](<img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/a4b650ce-299a-4df9-98ee-1634013f082e" />
+)
 
 
 
